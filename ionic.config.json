@@ -1,0 +1,7 @@
+{
+  "name": "contatosApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
